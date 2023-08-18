@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1187883240002309809
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 815599593975527925, guid: 929b496ed9f8b314a8bf363705cca0fd, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.1132
+      objectReference: {fileID: 0}
+    - target: {fileID: 815599593975527925, guid: 929b496ed9f8b314a8bf363705cca0fd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -14.270992
+      objectReference: {fileID: 0}
+    - target: {fileID: 815599593975527925, guid: 929b496ed9f8b314a8bf363705cca0fd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.8966732
+      objectReference: {fileID: 0}
+    - target: {fileID: 815599593975527925, guid: 929b496ed9f8b314a8bf363705cca0fd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -13.837263
+      objectReference: {fileID: 0}
+    - target: {fileID: 815599593975527925, guid: 929b496ed9f8b314a8bf363705cca0fd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 815599593975527925, guid: 929b496ed9f8b314a8bf363705cca0fd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 815599593975527925, guid: 929b496ed9f8b314a8bf363705cca0fd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 815599593975527925, guid: 929b496ed9f8b314a8bf363705cca0fd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 815599593975527925, guid: 929b496ed9f8b314a8bf363705cca0fd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 815599593975527925, guid: 929b496ed9f8b314a8bf363705cca0fd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 815599593975527925, guid: 929b496ed9f8b314a8bf363705cca0fd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2559989935417921536, guid: 929b496ed9f8b314a8bf363705cca0fd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 2559989935417921536, guid: 929b496ed9f8b314a8bf363705cca0fd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2559989935417921536, guid: 929b496ed9f8b314a8bf363705cca0fd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 2559989935417921536, guid: 929b496ed9f8b314a8bf363705cca0fd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2559989935417921536, guid: 929b496ed9f8b314a8bf363705cca0fd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 3422748446936174950, guid: 929b496ed9f8b314a8bf363705cca0fd, type: 3}
+      propertyPath: m_text
+      value: 0, 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3422748446936174950, guid: 929b496ed9f8b314a8bf363705cca0fd, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3422748446936174950, guid: 929b496ed9f8b314a8bf363705cca0fd, type: 3}
+      propertyPath: m_fontColor.b
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3422748446936174950, guid: 929b496ed9f8b314a8bf363705cca0fd, type: 3}
+      propertyPath: m_fontColor.g
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3422748446936174950, guid: 929b496ed9f8b314a8bf363705cca0fd, type: 3}
+      propertyPath: m_fontColor.r
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4811287232668949255, guid: 929b496ed9f8b314a8bf363705cca0fd, type: 3}
+      propertyPath: m_Name
+      value: Tile-RoadStraight90 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 4811287232668949255, guid: 929b496ed9f8b314a8bf363705cca0fd, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
+    - target: {fileID: 8379496125187542932, guid: 929b496ed9f8b314a8bf363705cca0fd, type: 3}
+      propertyPath: isPlaceable
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 929b496ed9f8b314a8bf363705cca0fd, type: 3}
